@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on challenges, projects and teams of companies that want a professional hungry for knowledge
 - 📫 How to reach me: https://github.com/DevDoge and  https://www.linkedin.com/in/lucas-ribeiro-19457b169/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDevDoge=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DevDoge/DevDoge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
