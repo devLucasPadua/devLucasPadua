@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Lucas and I'm @DevDoge
+- 👋 Hi, my name is Lucas and I'm @devLucasPadua
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning Java (as the main language), C ++ (for computational development) and Python (for data manipulation and construction of algorithms)
 - 💞️ I’m looking to collaborate on challenges, projects and teams of companies that want a professional hungry for knowledge
